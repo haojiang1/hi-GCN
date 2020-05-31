@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b62e9759-bef9-4acb-abba-e7ebf3cefad1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cNlPkVwMA5hY2oOHQNO5LYC3IR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hi-GCN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b62e9759-bef9-4acb-abba-e7ebf3cefad1" name="Default Changelist" comment="" />
+      <created>1590376909734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590376909734</updated>
+      <workItem from="1590376916627" duration="1692000" />
+      <workItem from="1590626821210" duration="8985000" />
+      <workItem from="1590816642033" duration="13062000" />
+      <workItem from="1590830777526" duration="33987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1590925893669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1590925893669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1590925893669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1590925893669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590816816145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590816816145" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1590816816144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590816816144" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1590816816144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590816816144" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1590816816144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590816816144" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1590377061704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590377061704" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590816809115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590816809115" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1590897212001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1590897212001" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>553</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>607</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hi_GCN$train.coverage" NAME="train Coverage Results" MODIFIED="1590925893657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

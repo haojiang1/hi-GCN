@@ -1,0 +1,1048 @@
+Epoch: 0-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 0, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 1-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 1, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 2-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 2, 'loss': tensor(0.6920, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6920, grad_fn=<NllLossBackward>)}
+Epoch: 3-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 3, 'loss': tensor(0.6905, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6905, grad_fn=<NllLossBackward>)}
+Epoch: 4-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 4, 'loss': tensor(0.6891, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6891, grad_fn=<NllLossBackward>)}
+Epoch: 5-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 5, 'loss': tensor(0.6881, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6881, grad_fn=<NllLossBackward>)}
+Epoch: 6-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 6, 'loss': tensor(0.6873, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6873, grad_fn=<NllLossBackward>)}
+Epoch: 7-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 7, 'loss': tensor(0.6861, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6861, grad_fn=<NllLossBackward>)}
+Epoch: 8-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 8, 'loss': tensor(0.6838, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6838, grad_fn=<NllLossBackward>)}
+Epoch: 9-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 9, 'loss': tensor(0.6807, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6807, grad_fn=<NllLossBackward>)}
+Epoch: 10-----------------------------
+Train_result: {'prec': 0.7741312741312741, 'recall': 0.5028328611898017, 'acc': 0.5494223363286265}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 10, 'loss': tensor(0.6761, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6761, grad_fn=<NllLossBackward>)}
+Epoch: 11-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 11, 'loss': tensor(0.6702, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6702, grad_fn=<NllLossBackward>)}
+Epoch: 12-----------------------------
+Train_result: {'prec': 0.7705290169759178, 'recall': 0.5455685007115403, 'acc': 0.5879332477535302}
+Val result: {'prec': 0.7235294117647059, 'recall': 0.5204081632653061, 'acc': 0.45977011494252873, 'F1': 0.3481587757054041}
+Best val result: {'epoch': 12, 'loss': tensor(0.6622, grad_fn=<DivBackward0>), 'acc': 0.45977011494252873, 'loss_t': tensor(0.6622, grad_fn=<NllLossBackward>)}
+Epoch: 13-----------------------------
+Train_result: {'prec': 0.7850147275405007, 'recall': 0.6286923619146418, 'acc': 0.6623876765083441}
+Val result: {'prec': 0.740506329113924, 'recall': 0.5816326530612245, 'acc': 0.5287356321839081, 'F1': 0.46513720197930725}
+Best val result: {'epoch': 13, 'loss': tensor(0.6514, grad_fn=<DivBackward0>), 'acc': 0.5287356321839081, 'loss_t': tensor(0.6514, grad_fn=<NllLossBackward>)}
+Epoch: 14-----------------------------
+Train_result: {'prec': 0.7941801150064923, 'recall': 0.710925135325646, 'acc': 0.7342747111681643}
+Val result: {'prec': 0.7177103718199609, 'recall': 0.6194951664876477, 'acc': 0.5747126436781609, 'F1': 0.5396825396825398}
+Best val result: {'epoch': 14, 'loss': tensor(0.6379, grad_fn=<DivBackward0>), 'acc': 0.5747126436781609, 'loss_t': tensor(0.6379, grad_fn=<NllLossBackward>)}
+Epoch: 15-----------------------------
+Train_result: {'prec': 0.8105063748840573, 'recall': 0.7626847012195933, 'acc': 0.7792041078305519}
+Val result: {'prec': 0.6702898550724639, 'recall': 0.6135875402792696, 'acc': 0.5747126436781609, 'F1': 0.5509834007532431}
+Best val result: {'epoch': 15, 'loss': tensor(0.6199, grad_fn=<DivBackward0>), 'acc': 0.5747126436781609, 'loss_t': tensor(0.6199, grad_fn=<NllLossBackward>)}
+Epoch: 16-----------------------------
+Train_result: {'prec': 0.840149598901496, 'recall': 0.8129879370652622, 'acc': 0.8241335044929397}
+Val result: {'prec': 0.7082201086956521, 'recall': 0.6646079484425349, 'acc': 0.632183908045977, 'F1': 0.6209150326797386}
+Best val result: {'epoch': 16, 'loss': tensor(0.5971, grad_fn=<DivBackward0>), 'acc': 0.632183908045977, 'loss_t': tensor(0.5971, grad_fn=<NllLossBackward>)}
+Epoch: 17-----------------------------
+Train_result: {'prec': 0.8642029045585817, 'recall': 0.8505432975568235, 'acc': 0.8575096277278562}
+Val result: {'prec': 0.7092592592592593, 'recall': 0.682062298603652, 'acc': 0.6551724137931034, 'F1': 0.6495703544575726}
+Best val result: {'epoch': 17, 'loss': tensor(0.5693, grad_fn=<DivBackward0>), 'acc': 0.6551724137931034, 'loss_t': tensor(0.5693, grad_fn=<NllLossBackward>)}
+Epoch: 18-----------------------------
+Train_result: {'prec': 0.8884363276859113, 'recall': 0.8814620489699291, 'acc': 0.8857509627727856}
+Val result: {'prec': 0.7241379310344827, 'recall': 0.7024704618689581, 'acc': 0.6781609195402298, 'F1': 0.6746794871794871}
+Best val result: {'epoch': 18, 'loss': tensor(0.5341, grad_fn=<DivBackward0>), 'acc': 0.6781609195402298, 'loss_t': tensor(0.5341, grad_fn=<NllLossBackward>)}
+Epoch: 19-----------------------------
+Train_result: {'prec': 0.9112981188823395, 'recall': 0.907403343574193, 'acc': 0.9101412066752247}
+Val result: {'prec': 0.7315789473684211, 'recall': 0.7126745435016112, 'acc': 0.6896551724137931, 'F1': 0.6870086608927382}
+Best val result: {'epoch': 19, 'loss': tensor(0.4912, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4912, grad_fn=<NllLossBackward>)}
+Epoch: 20-----------------------------
+Train_result: {'prec': 0.9280973156153272, 'recall': 0.9267479285533788, 'acc': 0.9281129653401797}
+Val result: {'prec': 0.7053872053872055, 'recall': 0.69656283566058, 'acc': 0.6781609195402298, 'F1': 0.6770943796394485}
+Best val result: {'epoch': 19, 'loss': tensor(0.4912, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4425, grad_fn=<NllLossBackward>)}
+Epoch: 21-----------------------------
+Train_result: {'prec': 0.9408442726727527, 'recall': 0.939941347803535, 'acc': 0.9409499358151476}
+Val result: {'prec': 0.689511653718091, 'recall': 0.6834049409237379, 'acc': 0.6666666666666666, 'F1': 0.6659605454786177}
+Best val result: {'epoch': 19, 'loss': tensor(0.4912, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3901, grad_fn=<NllLossBackward>)}
+Epoch: 22-----------------------------
+Train_result: {'prec': 0.9555193634943732, 'recall': 0.953823032624453, 'acc': 0.9550706033376123}
+Val result: {'prec': 0.689511653718091, 'recall': 0.6834049409237379, 'acc': 0.6666666666666666, 'F1': 0.6659605454786177}
+Best val result: {'epoch': 19, 'loss': tensor(0.4912, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3325, grad_fn=<NllLossBackward>)}
+Epoch: 23-----------------------------
+Train_result: {'prec': 0.9639581169955002, 'recall': 0.9634953251140459, 'acc': 0.9640564826700898}
+Val result: {'prec': 0.7136514983351832, 'recall': 0.706766917293233, 'acc': 0.6896551724137931, 'F1': 0.6889977492387132}
+Best val result: {'epoch': 23, 'loss': tensor(0.2764, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.2764, grad_fn=<NllLossBackward>)}
+Epoch: 24-----------------------------
+Train_result: {'prec': 0.9693942826680881, 'recall': 0.9684328824695101, 'acc': 0.9691912708600771}
+Val result: {'prec': 0.7219780219780221, 'recall': 0.7169709989258861, 'acc': 0.7011494252873564, 'F1': 0.7007936507936507}
+Best val result: {'epoch': 24, 'loss': tensor(0.2197, grad_fn=<DivBackward0>), 'acc': 0.7011494252873564, 'loss_t': tensor(0.2197, grad_fn=<NllLossBackward>)}
+Epoch: 25-----------------------------
+Train_result: {'prec': 0.9766887443642023, 'recall': 0.9766887443642023, 'acc': 0.9768934531450578}
+Val result: {'prec': 0.7465909090909091, 'recall': 0.7330827067669172, 'acc': 0.7126436781609196, 'F1': 0.7112704101951414}
+Best val result: {'epoch': 25, 'loss': tensor(0.1684, grad_fn=<DivBackward0>), 'acc': 0.7126436781609196, 'loss_t': tensor(0.1684, grad_fn=<NllLossBackward>)}
+Epoch: 26-----------------------------
+Train_result: {'prec': 0.9835331335331335, 'recall': 0.9828000106398542, 'acc': 0.9833119383825417}
+Val result: {'prec': 0.7542087542087542, 'recall': 0.7432867883995704, 'acc': 0.7241379310344828, 'F1': 0.7232237539766702}
+Best val result: {'epoch': 26, 'loss': tensor(0.1240, grad_fn=<DivBackward0>), 'acc': 0.7241379310344828, 'loss_t': tensor(0.1240, grad_fn=<NllLossBackward>)}
+Epoch: 27-----------------------------
+Train_result: {'prec': 0.9910547956142218, 'recall': 0.9908131508598332, 'acc': 0.9910141206675225}
+Val result: {'prec': 0.7542087542087542, 'recall': 0.7432867883995704, 'acc': 0.7241379310344828, 'F1': 0.7232237539766702}
+Best val result: {'epoch': 27, 'loss': tensor(0.0883, grad_fn=<DivBackward0>), 'acc': 0.7241379310344828, 'loss_t': tensor(0.0883, grad_fn=<NllLossBackward>)}
+Epoch: 28-----------------------------
+Train_result: {'prec': 0.99364621034703, 'recall': 0.9934032903749219, 'acc': 0.993581514762516}
+Val result: {'prec': 0.7713068181818181, 'recall': 0.7564446831364124, 'acc': 0.735632183908046, 'F1': 0.7343687773795301}
+Best val result: {'epoch': 28, 'loss': tensor(0.0598, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0598, grad_fn=<NllLossBackward>)}
+Epoch: 29-----------------------------
+Train_result: {'prec': 0.9976635514018692, 'recall': 0.9971671388101984, 'acc': 0.9974326059050064}
+Val result: {'prec': 0.7713068181818181, 'recall': 0.7564446831364124, 'acc': 0.735632183908046, 'F1': 0.7343687773795301}
+Best val result: {'epoch': 29, 'loss': tensor(0.0380, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0380, grad_fn=<NllLossBackward>)}
+Epoch: 30-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7713068181818181, 'recall': 0.7564446831364124, 'acc': 0.735632183908046, 'F1': 0.7343687773795301}
+Best val result: {'epoch': 30, 'loss': tensor(0.0230, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0230, grad_fn=<NllLossBackward>)}
+Epoch: 31-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 31, 'loss': tensor(0.0139, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0139, grad_fn=<NllLossBackward>)}
+Epoch: 32-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7624324324324325, 'recall': 0.7607411385606875, 'acc': 0.7471264367816092, 'F1': 0.747093023255814}
+Best val result: {'epoch': 32, 'loss': tensor(0.0078, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0078, grad_fn=<NllLossBackward>)}
+Epoch: 33-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7624324324324325, 'recall': 0.7607411385606875, 'acc': 0.7471264367816092, 'F1': 0.747093023255814}
+Best val result: {'epoch': 33, 'loss': tensor(0.0046, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0046, grad_fn=<NllLossBackward>)}
+Epoch: 34-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7624324324324325, 'recall': 0.7607411385606875, 'acc': 0.7471264367816092, 'F1': 0.747093023255814}
+Best val result: {'epoch': 34, 'loss': tensor(0.0026, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0026, grad_fn=<NllLossBackward>)}
+Epoch: 35-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7540849673202614, 'recall': 0.7505370569280344, 'acc': 0.735632183908046, 'F1': 0.7354923992068737}
+Best val result: {'epoch': 34, 'loss': tensor(0.0026, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0016, grad_fn=<NllLossBackward>)}
+Epoch: 36-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7540849673202614, 'recall': 0.7505370569280344, 'acc': 0.735632183908046, 'F1': 0.7354923992068737}
+Best val result: {'epoch': 34, 'loss': tensor(0.0026, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0010, grad_fn=<NllLossBackward>)}
+Epoch: 37-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7540849673202614, 'recall': 0.7505370569280344, 'acc': 0.735632183908046, 'F1': 0.7354923992068737}
+Best val result: {'epoch': 34, 'loss': tensor(0.0026, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0007, grad_fn=<NllLossBackward>)}
+Epoch: 38-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7458791208791209, 'recall': 0.7403329752953813, 'acc': 0.7241379310344828, 'F1': 0.7238095238095238}
+Best val result: {'epoch': 34, 'loss': tensor(0.0026, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0004, grad_fn=<NllLossBackward>)}
+Epoch: 0-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 0, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 1-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 1, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 2-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 2, 'loss': tensor(0.6922, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6922, grad_fn=<NllLossBackward>)}
+Epoch: 3-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 3, 'loss': tensor(0.6913, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6913, grad_fn=<NllLossBackward>)}
+Epoch: 4-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 4, 'loss': tensor(0.6904, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6904, grad_fn=<NllLossBackward>)}
+Epoch: 5-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 5, 'loss': tensor(0.6896, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6896, grad_fn=<NllLossBackward>)}
+Epoch: 6-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 6, 'loss': tensor(0.6889, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6889, grad_fn=<NllLossBackward>)}
+Epoch: 7-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 7, 'loss': tensor(0.6882, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6882, grad_fn=<NllLossBackward>)}
+Epoch: 8-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 8, 'loss': tensor(0.6876, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6876, grad_fn=<NllLossBackward>)}
+Epoch: 9-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 9, 'loss': tensor(0.6870, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6870, grad_fn=<NllLossBackward>)}
+Epoch: 10-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 10, 'loss': tensor(0.6862, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6862, grad_fn=<NllLossBackward>)}
+Epoch: 11-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 11, 'loss': tensor(0.6853, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6853, grad_fn=<NllLossBackward>)}
+Epoch: 12-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 12, 'loss': tensor(0.6840, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6840, grad_fn=<NllLossBackward>)}
+Epoch: 13-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 13, 'loss': tensor(0.6822, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6822, grad_fn=<NllLossBackward>)}
+Epoch: 14-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 14, 'loss': tensor(0.6802, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6802, grad_fn=<NllLossBackward>)}
+Epoch: 15-----------------------------
+Train_result: {'prec': 0.7737789203084833, 'recall': 0.5014164305949008, 'acc': 0.5481386392811296}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 15, 'loss': tensor(0.6777, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6777, grad_fn=<NllLossBackward>)}
+Epoch: 16-----------------------------
+Train_result: {'prec': 0.7741312741312741, 'recall': 0.5028328611898017, 'acc': 0.5494223363286265}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 16, 'loss': tensor(0.6746, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6746, grad_fn=<NllLossBackward>)}
+Epoch: 17-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 17, 'loss': tensor(0.6710, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6710, grad_fn=<NllLossBackward>)}
+Epoch: 18-----------------------------
+Train_result: {'prec': 0.7748387096774194, 'recall': 0.5056657223796034, 'acc': 0.55198973042362}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 18, 'loss': tensor(0.6665, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6665, grad_fn=<NllLossBackward>)}
+Epoch: 19-----------------------------
+Train_result: {'prec': 0.7606236203090508, 'recall': 0.5314041947625318, 'acc': 0.5750962772785623}
+Val result: {'prec': 0.7209302325581395, 'recall': 0.5102040816326531, 'acc': 0.4482758620689655, 'F1': 0.32645161290322583}
+Best val result: {'epoch': 19, 'loss': tensor(0.6604, grad_fn=<DivBackward0>), 'acc': 0.4482758620689655, 'loss_t': tensor(0.6604, grad_fn=<NllLossBackward>)}
+Epoch: 20-----------------------------
+Train_result: {'prec': 0.7715815376429902, 'recall': 0.5814647089334877, 'acc': 0.62002567394095}
+Val result: {'prec': 0.7317073170731707, 'recall': 0.5510204081632653, 'acc': 0.4942528735632184, 'F1': 0.4092592592592593}
+Best val result: {'epoch': 20, 'loss': tensor(0.6538, grad_fn=<DivBackward0>), 'acc': 0.4942528735632184, 'loss_t': tensor(0.6538, grad_fn=<NllLossBackward>)}
+Epoch: 21-----------------------------
+Train_result: {'prec': 0.7807802589277957, 'recall': 0.6289350835893548, 'acc': 0.6623876765083441}
+Val result: {'prec': 0.740506329113924, 'recall': 0.5816326530612245, 'acc': 0.5287356321839081, 'F1': 0.46513720197930725}
+Best val result: {'epoch': 21, 'loss': tensor(0.6464, grad_fn=<DivBackward0>), 'acc': 0.5287356321839081, 'loss_t': tensor(0.6464, grad_fn=<NllLossBackward>)}
+Epoch: 22-----------------------------
+Train_result: {'prec': 0.7947567783094099, 'recall': 0.6868059157589541, 'acc': 0.7137355584082157}
+Val result: {'prec': 0.75, 'recall': 0.6122448979591837, 'acc': 0.5632183908045977, 'F1': 0.5166666666666666}
+Best val result: {'epoch': 22, 'loss': tensor(0.6369, grad_fn=<DivBackward0>), 'acc': 0.5632183908045977, 'loss_t': tensor(0.6369, grad_fn=<NllLossBackward>)}
+Epoch: 23-----------------------------
+Train_result: {'prec': 0.8118224902297122, 'recall': 0.7345190120895344, 'acc': 0.7560975609756098}
+Val result: {'prec': 0.7236111111111111, 'recall': 0.6296992481203008, 'acc': 0.5862068965517241, 'F1': 0.5551136363636363}
+Best val result: {'epoch': 23, 'loss': tensor(0.6262, grad_fn=<DivBackward0>), 'acc': 0.5862068965517241, 'loss_t': tensor(0.6262, grad_fn=<NllLossBackward>)}
+Epoch: 24-----------------------------
+Train_result: {'prec': 0.8059588626739262, 'recall': 0.755602548245089, 'acc': 0.772785622593068}
+Val result: {'prec': 0.6617647058823529, 'recall': 0.6033834586466165, 'acc': 0.5632183908045977, 'F1': 0.5361952861952861}
+Best val result: {'epoch': 23, 'loss': tensor(0.6262, grad_fn=<DivBackward0>), 'acc': 0.5862068965517241, 'loss_t': tensor(0.6132, grad_fn=<NllLossBackward>)}
+Epoch: 25-----------------------------
+Train_result: {'prec': 0.8286382536382536, 'recall': 0.7943316176568381, 'acc': 0.8074454428754814}
+Val result: {'prec': 0.6861940298507463, 'recall': 0.6339957035445757, 'acc': 0.5977011494252874, 'F1': 0.5797101449275361}
+Best val result: {'epoch': 25, 'loss': tensor(0.5973, grad_fn=<DivBackward0>), 'acc': 0.5977011494252874, 'loss_t': tensor(0.5973, grad_fn=<NllLossBackward>)}
+Epoch: 26-----------------------------
+Train_result: {'prec': 0.8450286738351255, 'recall': 0.8200700900397664, 'acc': 0.8305519897304237}
+Val result: {'prec': 0.701048951048951, 'recall': 0.6544038668098818, 'acc': 0.6206896551724138, 'F1': 0.6074114590455354}
+Best val result: {'epoch': 26, 'loss': tensor(0.5806, grad_fn=<DivBackward0>), 'acc': 0.6206896551724138, 'loss_t': tensor(0.5806, grad_fn=<NllLossBackward>)}
+Epoch: 27-----------------------------
+Train_result: {'prec': 0.86607167710508, 'recall': 0.8498151325326844, 'acc': 0.8575096277278562}
+Val result: {'prec': 0.6941935483870967, 'recall': 0.6616541353383458, 'acc': 0.632183908045977, 'F1': 0.6237837837837837}
+Best val result: {'epoch': 27, 'loss': tensor(0.5616, grad_fn=<DivBackward0>), 'acc': 0.632183908045977, 'loss_t': tensor(0.5616, grad_fn=<NllLossBackward>)}
+Epoch: 28-----------------------------
+Train_result: {'prec': 0.8833710019861654, 'recall': 0.8722353003763849, 'acc': 0.8780487804878049}
+Val result: {'prec': 0.7092592592592593, 'recall': 0.682062298603652, 'acc': 0.6551724137931034, 'F1': 0.6495703544575726}
+Best val result: {'epoch': 28, 'loss': tensor(0.5395, grad_fn=<DivBackward0>), 'acc': 0.6551724137931034, 'loss_t': tensor(0.5395, grad_fn=<NllLossBackward>)}
+Epoch: 29-----------------------------
+Train_result: {'prec': 0.8985587583148559, 'recall': 0.8920653287049968, 'acc': 0.8960205391527599}
+Val result: {'prec': 0.7430387409200969, 'recall': 0.7156283566058002, 'acc': 0.6896551724137931, 'F1': 0.685500066943366}
+Best val result: {'epoch': 29, 'loss': tensor(0.5139, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.5139, grad_fn=<NllLossBackward>)}
+Epoch: 30-----------------------------
+Train_result: {'prec': 0.9108952588879006, 'recall': 0.9055014696298661, 'acc': 0.9088575096277278}
+Val result: {'prec': 0.7241379310344827, 'recall': 0.7024704618689581, 'acc': 0.6781609195402298, 'F1': 0.6746794871794871}
+Best val result: {'epoch': 29, 'loss': tensor(0.5139, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4852, grad_fn=<NllLossBackward>)}
+Epoch: 31-----------------------------
+Train_result: {'prec': 0.9240312416197372, 'recall': 0.9205967628243493, 'acc': 0.9229781771501926}
+Val result: {'prec': 0.7061403508771931, 'recall': 0.6893125671321161, 'acc': 0.6666666666666666, 'F1': 0.6638241172551633}
+Best val result: {'epoch': 29, 'loss': tensor(0.5139, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4553, grad_fn=<NllLossBackward>)}
+Epoch: 32-----------------------------
+Train_result: {'prec': 0.9338372963864445, 'recall': 0.93144276423413, 'acc': 0.9332477535301669}
+Val result: {'prec': 0.721875, 'recall': 0.7097207303974221, 'acc': 0.6896551724137931, 'F1': 0.6881720430107527}
+Best val result: {'epoch': 32, 'loss': tensor(0.4241, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4241, grad_fn=<NllLossBackward>)}
+Epoch: 33-----------------------------
+Train_result: {'prec': 0.9428027265437049, 'recall': 0.9406296133742967, 'acc': 0.9422336328626444}
+Val result: {'prec': 0.7053872053872055, 'recall': 0.69656283566058, 'acc': 0.6781609195402298, 'F1': 0.6770943796394485}
+Best val result: {'epoch': 32, 'loss': tensor(0.4241, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3894, grad_fn=<NllLossBackward>)}
+Epoch: 34-----------------------------
+Train_result: {'prec': 0.9506114675220529, 'recall': 0.9484000319195627, 'acc': 0.9499358151476252}
+Val result: {'prec': 0.689511653718091, 'recall': 0.6834049409237379, 'acc': 0.6666666666666666, 'F1': 0.6659605454786177}
+Best val result: {'epoch': 32, 'loss': tensor(0.4241, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3545, grad_fn=<NllLossBackward>)}
+Epoch: 35-----------------------------
+Train_result: {'prec': 0.9592772707866368, 'recall': 0.9578296027344426, 'acc': 0.9589216944801027}
+Val result: {'prec': 0.689511653718091, 'recall': 0.6834049409237379, 'acc': 0.6666666666666666, 'F1': 0.6659605454786177}
+Best val result: {'epoch': 32, 'loss': tensor(0.4241, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3190, grad_fn=<NllLossBackward>)}
+Epoch: 36-----------------------------
+Train_result: {'prec': 0.9618756003842459, 'recall': 0.9604197422495312, 'acc': 0.9614890885750963}
+Val result: {'prec': 0.7053872053872055, 'recall': 0.69656283566058, 'acc': 0.6781609195402298, 'F1': 0.6770943796394485}
+Best val result: {'epoch': 32, 'loss': tensor(0.4241, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.2828, grad_fn=<NllLossBackward>)}
+Epoch: 37-----------------------------
+Train_result: {'prec': 0.964473929981855, 'recall': 0.9630098817646198, 'acc': 0.9640564826700898}
+Val result: {'prec': 0.7297979797979799, 'recall': 0.7199248120300752, 'acc': 0.7011494252873564, 'F1': 0.7001590668080595}
+Best val result: {'epoch': 37, 'loss': tensor(0.2463, grad_fn=<DivBackward0>), 'acc': 0.7011494252873564, 'loss_t': tensor(0.2463, grad_fn=<NllLossBackward>)}
+Epoch: 38-----------------------------
+Train_result: {'prec': 0.9696705891770734, 'recall': 0.9681901607947971, 'acc': 0.9691912708600771}
+Val result: {'prec': 0.721875, 'recall': 0.7097207303974221, 'acc': 0.6896551724137931, 'F1': 0.6881720430107527}
+Best val result: {'epoch': 37, 'loss': tensor(0.2463, grad_fn=<DivBackward0>), 'acc': 0.7011494252873564, 'loss_t': tensor(0.2143, grad_fn=<NllLossBackward>)}
+Epoch: 39-----------------------------
+Train_result: {'prec': 0.9757509157509157, 'recall': 0.9750295920945883, 'acc': 0.975609756097561}
+Val result: {'prec': 0.7465909090909091, 'recall': 0.7330827067669172, 'acc': 0.7126436781609196, 'F1': 0.7112704101951414}
+Best val result: {'epoch': 39, 'loss': tensor(0.1817, grad_fn=<DivBackward0>), 'acc': 0.7126436781609196, 'loss_t': tensor(0.1817, grad_fn=<NllLossBackward>)}
+Epoch: 40-----------------------------
+Train_result: {'prec': 0.9809390609390609, 'recall': 0.9802098711247655, 'acc': 0.9807445442875481}
+Val result: {'prec': 0.7542087542087542, 'recall': 0.7432867883995704, 'acc': 0.7241379310344828, 'F1': 0.7232237539766702}
+Best val result: {'epoch': 40, 'loss': tensor(0.1513, grad_fn=<DivBackward0>), 'acc': 0.7241379310344828, 'loss_t': tensor(0.1513, grad_fn=<NllLossBackward>)}
+Epoch: 41-----------------------------
+Train_result: {'prec': 0.9823715599386953, 'recall': 0.9813835800449534, 'acc': 0.982028241335045}
+Val result: {'prec': 0.7542087542087542, 'recall': 0.7432867883995704, 'acc': 0.7241379310344828, 'F1': 0.7232237539766702}
+Best val result: {'epoch': 41, 'loss': tensor(0.1234, grad_fn=<DivBackward0>), 'acc': 0.7241379310344828, 'loss_t': tensor(0.1234, grad_fn=<NllLossBackward>)}
+Epoch: 42-----------------------------
+Train_result: {'prec': 0.9875624708469382, 'recall': 0.9865638590751307, 'acc': 0.9871630295250321}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 42, 'loss': tensor(0.0988, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0988, grad_fn=<NllLossBackward>)}
+Epoch: 43-----------------------------
+Train_result: {'prec': 0.9913153513153513, 'recall': 0.9905704291851202, 'acc': 0.9910141206675225}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 43, 'loss': tensor(0.0800, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0800, grad_fn=<NllLossBackward>)}
+Epoch: 44-----------------------------
+Train_result: {'prec': 0.9948197209698227, 'recall': 0.9948197209698227, 'acc': 0.9948652118100129}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 44, 'loss': tensor(0.0622, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0622, grad_fn=<NllLossBackward>)}
+Epoch: 45-----------------------------
+Train_result: {'prec': 0.9988290398126464, 'recall': 0.9985835694050991, 'acc': 0.9987163029525032}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 45, 'loss': tensor(0.0479, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0479, grad_fn=<NllLossBackward>)}
+Epoch: 46-----------------------------
+Train_result: {'prec': 0.9988290398126464, 'recall': 0.9985835694050991, 'acc': 0.9987163029525032}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 46, 'loss': tensor(0.0359, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0359, grad_fn=<NllLossBackward>)}
+Epoch: 47-----------------------------
+Train_result: {'prec': 0.9988290398126464, 'recall': 0.9985835694050991, 'acc': 0.9987163029525032}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 47, 'loss': tensor(0.0264, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0264, grad_fn=<NllLossBackward>)}
+Epoch: 48-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7860710321864595, 'recall': 0.7768528464017186, 'acc': 0.7586206896551724, 'F1': 0.758109360518999}
+Best val result: {'epoch': 48, 'loss': tensor(0.0196, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0196, grad_fn=<NllLossBackward>)}
+Epoch: 49-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7860710321864595, 'recall': 0.7768528464017186, 'acc': 0.7586206896551724, 'F1': 0.758109360518999}
+Best val result: {'epoch': 49, 'loss': tensor(0.0147, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0147, grad_fn=<NllLossBackward>)}
+Epoch: 50-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7860710321864595, 'recall': 0.7768528464017186, 'acc': 0.7586206896551724, 'F1': 0.758109360518999}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0106, grad_fn=<NllLossBackward>)}
+Epoch: 51-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0076, grad_fn=<NllLossBackward>)}
+Epoch: 52-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0060, grad_fn=<NllLossBackward>)}
+Epoch: 53-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0044, grad_fn=<NllLossBackward>)}
+Epoch: 54-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0034, grad_fn=<NllLossBackward>)}
+Epoch: 55-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0027, grad_fn=<NllLossBackward>)}
+Epoch: 56-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0021, grad_fn=<NllLossBackward>)}
+Epoch: 57-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0017, grad_fn=<NllLossBackward>)}
+Epoch: 58-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0013, grad_fn=<NllLossBackward>)}
+Epoch: 59-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0012, grad_fn=<NllLossBackward>)}
+Epoch: 60-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0010, grad_fn=<NllLossBackward>)}
+Epoch: 61-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0008, grad_fn=<NllLossBackward>)}
+Epoch: 62-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7458791208791209, 'recall': 0.7403329752953813, 'acc': 0.7241379310344828, 'F1': 0.7238095238095238}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0007, grad_fn=<NllLossBackward>)}
+Epoch: 63-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7458791208791209, 'recall': 0.7403329752953813, 'acc': 0.7241379310344828, 'F1': 0.7238095238095238}
+Best val result: {'epoch': 50, 'loss': tensor(0.0106, grad_fn=<DivBackward0>), 'acc': 0.7586206896551724, 'loss_t': tensor(0.0006, grad_fn=<NllLossBackward>)}
+Epoch: 0-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 0, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 1-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 1, 'loss': tensor(0.6925, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6925, grad_fn=<NllLossBackward>)}
+Epoch: 2-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 2, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 3-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 3, 'loss': tensor(0.6921, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6921, grad_fn=<NllLossBackward>)}
+Epoch: 4-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 4, 'loss': tensor(0.6918, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6918, grad_fn=<NllLossBackward>)}
+Epoch: 5-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 5, 'loss': tensor(0.6916, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6916, grad_fn=<NllLossBackward>)}
+Epoch: 6-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 6, 'loss': tensor(0.6913, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6913, grad_fn=<NllLossBackward>)}
+Epoch: 7-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 7, 'loss': tensor(0.6911, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6911, grad_fn=<NllLossBackward>)}
+Epoch: 8-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 8, 'loss': tensor(0.6908, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6908, grad_fn=<NllLossBackward>)}
+Epoch: 9-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 9, 'loss': tensor(0.6906, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6906, grad_fn=<NllLossBackward>)}
+Epoch: 10-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 10, 'loss': tensor(0.6904, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6904, grad_fn=<NllLossBackward>)}
+Epoch: 11-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 11, 'loss': tensor(0.6902, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6902, grad_fn=<NllLossBackward>)}
+Epoch: 12-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 12, 'loss': tensor(0.6900, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6900, grad_fn=<NllLossBackward>)}
+Epoch: 13-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 13, 'loss': tensor(0.6897, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6897, grad_fn=<NllLossBackward>)}
+Epoch: 14-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 14, 'loss': tensor(0.6896, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6896, grad_fn=<NllLossBackward>)}
+Epoch: 15-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 15, 'loss': tensor(0.6894, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6894, grad_fn=<NllLossBackward>)}
+Epoch: 16-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 16, 'loss': tensor(0.6892, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6892, grad_fn=<NllLossBackward>)}
+Epoch: 17-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 17, 'loss': tensor(0.6891, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6891, grad_fn=<NllLossBackward>)}
+Epoch: 18-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 18, 'loss': tensor(0.6889, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6889, grad_fn=<NllLossBackward>)}
+Epoch: 19-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 19, 'loss': tensor(0.6887, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6887, grad_fn=<NllLossBackward>)}
+Epoch: 20-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 20, 'loss': tensor(0.6885, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6885, grad_fn=<NllLossBackward>)}
+Epoch: 21-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 21, 'loss': tensor(0.6884, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6884, grad_fn=<NllLossBackward>)}
+Epoch: 22-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 22, 'loss': tensor(0.6883, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6883, grad_fn=<NllLossBackward>)}
+Epoch: 23-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 23, 'loss': tensor(0.6880, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6880, grad_fn=<NllLossBackward>)}
+Epoch: 24-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 24, 'loss': tensor(0.6879, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6879, grad_fn=<NllLossBackward>)}
+Epoch: 25-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 25, 'loss': tensor(0.6877, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6877, grad_fn=<NllLossBackward>)}
+Epoch: 26-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 26, 'loss': tensor(0.6875, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6875, grad_fn=<NllLossBackward>)}
+Epoch: 27-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 27, 'loss': tensor(0.6874, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6874, grad_fn=<NllLossBackward>)}
+Epoch: 28-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 28, 'loss': tensor(0.6871, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6871, grad_fn=<NllLossBackward>)}
+Epoch: 29-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 29, 'loss': tensor(0.6868, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6868, grad_fn=<NllLossBackward>)}
+Epoch: 30-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 30, 'loss': tensor(0.6866, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6866, grad_fn=<NllLossBackward>)}
+Epoch: 31-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 31, 'loss': tensor(0.6863, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6863, grad_fn=<NllLossBackward>)}
+Epoch: 32-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 32, 'loss': tensor(0.6861, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6861, grad_fn=<NllLossBackward>)}
+Epoch: 33-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 33, 'loss': tensor(0.6859, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6859, grad_fn=<NllLossBackward>)}
+Epoch: 34-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 34, 'loss': tensor(0.6854, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6854, grad_fn=<NllLossBackward>)}
+Epoch: 35-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 35, 'loss': tensor(0.6851, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6851, grad_fn=<NllLossBackward>)}
+Epoch: 36-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 36, 'loss': tensor(0.6848, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6848, grad_fn=<NllLossBackward>)}
+Epoch: 37-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 37, 'loss': tensor(0.6844, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6844, grad_fn=<NllLossBackward>)}
+Epoch: 38-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 38, 'loss': tensor(0.6840, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6840, grad_fn=<NllLossBackward>)}
+Epoch: 39-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 39, 'loss': tensor(0.6836, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6836, grad_fn=<NllLossBackward>)}
+Epoch: 40-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 40, 'loss': tensor(0.6830, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6830, grad_fn=<NllLossBackward>)}
+Epoch: 41-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 41, 'loss': tensor(0.6826, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6826, grad_fn=<NllLossBackward>)}
+Epoch: 42-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 42, 'loss': tensor(0.6820, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6820, grad_fn=<NllLossBackward>)}
+Epoch: 43-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 43, 'loss': tensor(0.6814, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6814, grad_fn=<NllLossBackward>)}
+Epoch: 44-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 44, 'loss': tensor(0.6805, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6805, grad_fn=<NllLossBackward>)}
+Epoch: 45-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 45, 'loss': tensor(0.6799, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6799, grad_fn=<NllLossBackward>)}
+Epoch: 46-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 46, 'loss': tensor(0.6791, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6791, grad_fn=<NllLossBackward>)}
+Epoch: 47-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 47, 'loss': tensor(0.6784, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6784, grad_fn=<NllLossBackward>)}
+Epoch: 48-----------------------------
+Train_result: {'prec': 0.7737789203084833, 'recall': 0.5014164305949008, 'acc': 0.5481386392811296}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 48, 'loss': tensor(0.6773, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6773, grad_fn=<NllLossBackward>)}
+Epoch: 49-----------------------------
+Train_result: {'prec': 0.7737789203084833, 'recall': 0.5014164305949008, 'acc': 0.5481386392811296}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 49, 'loss': tensor(0.6763, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6763, grad_fn=<NllLossBackward>)}
+Epoch: 50-----------------------------
+Train_result: {'prec': 0.7737789203084833, 'recall': 0.5014164305949008, 'acc': 0.5481386392811296}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 50, 'loss': tensor(0.6755, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6755, grad_fn=<NllLossBackward>)}
+Epoch: 51-----------------------------
+Train_result: {'prec': 0.7737789203084833, 'recall': 0.5014164305949008, 'acc': 0.5481386392811296}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 51, 'loss': tensor(0.6745, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6745, grad_fn=<NllLossBackward>)}
+Epoch: 52-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 52, 'loss': tensor(0.6734, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6734, grad_fn=<NllLossBackward>)}
+Epoch: 53-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 53, 'loss': tensor(0.6718, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6718, grad_fn=<NllLossBackward>)}
+Epoch: 54-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 54, 'loss': tensor(0.6705, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6705, grad_fn=<NllLossBackward>)}
+Epoch: 55-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 55, 'loss': tensor(0.6694, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6694, grad_fn=<NllLossBackward>)}
+Epoch: 56-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 56, 'loss': tensor(0.6677, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6677, grad_fn=<NllLossBackward>)}
+Epoch: 57-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 57, 'loss': tensor(0.6655, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6655, grad_fn=<NllLossBackward>)}
+Epoch: 58-----------------------------
+Train_result: {'prec': 0.7748387096774194, 'recall': 0.5056657223796034, 'acc': 0.55198973042362}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 58, 'loss': tensor(0.6641, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6641, grad_fn=<NllLossBackward>)}
+Epoch: 59-----------------------------
+Train_result: {'prec': 0.7762645914396887, 'recall': 0.5113314447592068, 'acc': 0.5571245186136072}
+Val result: {'prec': 0.7209302325581395, 'recall': 0.5102040816326531, 'acc': 0.4482758620689655, 'F1': 0.32645161290322583}
+Best val result: {'epoch': 59, 'loss': tensor(0.6625, grad_fn=<DivBackward0>), 'acc': 0.4482758620689655, 'loss_t': tensor(0.6625, grad_fn=<NllLossBackward>)}
+Epoch: 60-----------------------------
+Train_result: {'prec': 0.7784313725490196, 'recall': 0.5198300283286119, 'acc': 0.5648267008985879}
+Val result: {'prec': 0.7209302325581395, 'recall': 0.5102040816326531, 'acc': 0.4482758620689655, 'F1': 0.32645161290322583}
+Best val result: {'epoch': 60, 'loss': tensor(0.6607, grad_fn=<DivBackward0>), 'acc': 0.4482758620689655, 'loss_t': tensor(0.6607, grad_fn=<NllLossBackward>)}
+Epoch: 61-----------------------------
+Train_result: {'prec': 0.7640612687155239, 'recall': 0.5356534865472343, 'acc': 0.5789473684210527}
+Val result: {'prec': 0.7235294117647059, 'recall': 0.5204081632653061, 'acc': 0.45977011494252873, 'F1': 0.3481587757054041}
+Best val result: {'epoch': 61, 'loss': tensor(0.6583, grad_fn=<DivBackward0>), 'acc': 0.45977011494252873, 'loss_t': tensor(0.6583, grad_fn=<NllLossBackward>)}
+Epoch: 0-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 0, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 1-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 1, 'loss': tensor(0.6924, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6924, grad_fn=<NllLossBackward>)}
+Epoch: 2-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 2, 'loss': tensor(0.6923, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6923, grad_fn=<NllLossBackward>)}
+Epoch: 3-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 3, 'loss': tensor(0.6917, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6917, grad_fn=<NllLossBackward>)}
+Epoch: 4-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 4, 'loss': tensor(0.6910, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6910, grad_fn=<NllLossBackward>)}
+Epoch: 5-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 5, 'loss': tensor(0.6904, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6904, grad_fn=<NllLossBackward>)}
+Epoch: 6-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 6, 'loss': tensor(0.6899, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6899, grad_fn=<NllLossBackward>)}
+Epoch: 7-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 7, 'loss': tensor(0.6894, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6894, grad_fn=<NllLossBackward>)}
+Epoch: 8-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 8, 'loss': tensor(0.6889, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6889, grad_fn=<NllLossBackward>)}
+Epoch: 9-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 9, 'loss': tensor(0.6884, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6884, grad_fn=<NllLossBackward>)}
+Epoch: 10-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 10, 'loss': tensor(0.6880, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6880, grad_fn=<NllLossBackward>)}
+Epoch: 11-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 11, 'loss': tensor(0.6877, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6877, grad_fn=<NllLossBackward>)}
+Epoch: 12-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 12, 'loss': tensor(0.6872, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6872, grad_fn=<NllLossBackward>)}
+Epoch: 13-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 13, 'loss': tensor(0.6866, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6866, grad_fn=<NllLossBackward>)}
+Epoch: 14-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 14, 'loss': tensor(0.6862, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6862, grad_fn=<NllLossBackward>)}
+Epoch: 15-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 15, 'loss': tensor(0.6855, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6855, grad_fn=<NllLossBackward>)}
+Epoch: 16-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 16, 'loss': tensor(0.6847, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6847, grad_fn=<NllLossBackward>)}
+Epoch: 17-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 17, 'loss': tensor(0.6837, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6837, grad_fn=<NllLossBackward>)}
+Epoch: 18-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 18, 'loss': tensor(0.6826, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6826, grad_fn=<NllLossBackward>)}
+Epoch: 19-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 19, 'loss': tensor(0.6810, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6810, grad_fn=<NllLossBackward>)}
+Epoch: 20-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 20, 'loss': tensor(0.6794, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6794, grad_fn=<NllLossBackward>)}
+Epoch: 21-----------------------------
+Train_result: {'prec': 0.2734274711168164, 'recall': 0.5, 'acc': 0.5468549422336328}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 21, 'loss': tensor(0.6778, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6778, grad_fn=<NllLossBackward>)}
+Epoch: 22-----------------------------
+Train_result: {'prec': 0.7737789203084833, 'recall': 0.5014164305949008, 'acc': 0.5481386392811296}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 22, 'loss': tensor(0.6757, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6757, grad_fn=<NllLossBackward>)}
+Epoch: 23-----------------------------
+Train_result: {'prec': 0.7741312741312741, 'recall': 0.5028328611898017, 'acc': 0.5494223363286265}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 23, 'loss': tensor(0.6733, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6733, grad_fn=<NllLossBackward>)}
+Epoch: 24-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 24, 'loss': tensor(0.6705, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6705, grad_fn=<NllLossBackward>)}
+Epoch: 25-----------------------------
+Train_result: {'prec': 0.7744845360824743, 'recall': 0.5042492917847026, 'acc': 0.5507060333761232}
+Val result: {'prec': 0.21839080459770116, 'recall': 0.5, 'acc': 0.4367816091954023, 'F1': 0.304}
+Best val result: {'epoch': 25, 'loss': tensor(0.6672, grad_fn=<DivBackward0>), 'acc': 0.4367816091954023, 'loss_t': tensor(0.6672, grad_fn=<NllLossBackward>)}
+Epoch: 26-----------------------------
+Train_result: {'prec': 0.7759067357512953, 'recall': 0.509915014164306, 'acc': 0.5558408215661104}
+Val result: {'prec': 0.7209302325581395, 'recall': 0.5102040816326531, 'acc': 0.4482758620689655, 'F1': 0.32645161290322583}
+Best val result: {'epoch': 26, 'loss': tensor(0.6635, grad_fn=<DivBackward0>), 'acc': 0.4482758620689655, 'loss_t': tensor(0.6635, grad_fn=<NllLossBackward>)}
+Epoch: 27-----------------------------
+Train_result: {'prec': 0.7618302387267905, 'recall': 0.5328206253574326, 'acc': 0.576379974326059}
+Val result: {'prec': 0.7235294117647059, 'recall': 0.5204081632653061, 'acc': 0.45977011494252873, 'F1': 0.3481587757054041}
+Best val result: {'epoch': 27, 'loss': tensor(0.6597, grad_fn=<DivBackward0>), 'acc': 0.45977011494252873, 'loss_t': tensor(0.6597, grad_fn=<NllLossBackward>)}
+Epoch: 28-----------------------------
+Train_result: {'prec': 0.7753655404070342, 'recall': 0.5741398342842703, 'acc': 0.613607188703466}
+Val result: {'prec': 0.7261904761904762, 'recall': 0.5306122448979592, 'acc': 0.47126436781609193, 'F1': 0.3691677175283733}
+Best val result: {'epoch': 28, 'loss': tensor(0.6551, grad_fn=<DivBackward0>), 'acc': 0.47126436781609193, 'loss_t': tensor(0.6551, grad_fn=<NllLossBackward>)}
+Epoch: 29-----------------------------
+Train_result: {'prec': 0.7768597997138769, 'recall': 0.6029538895317134, 'acc': 0.6392811296534018}
+Val result: {'prec': 0.7345679012345678, 'recall': 0.5612244897959183, 'acc': 0.5057471264367817, 'F1': 0.4284186401833461}
+Best val result: {'epoch': 29, 'loss': tensor(0.6494, grad_fn=<DivBackward0>), 'acc': 0.5057471264367817, 'loss_t': tensor(0.6494, grad_fn=<NllLossBackward>)}
+Epoch: 30-----------------------------
+Train_result: {'prec': 0.7905627311365017, 'recall': 0.6400238066738486, 'acc': 0.6726572528883183}
+Val result: {'prec': 0.7375, 'recall': 0.5714285714285714, 'acc': 0.5172413793103449, 'F1': 0.4470338983050847}
+Best val result: {'epoch': 30, 'loss': tensor(0.6428, grad_fn=<DivBackward0>), 'acc': 0.5172413793103449, 'loss_t': tensor(0.6428, grad_fn=<NllLossBackward>)}
+Epoch: 31-----------------------------
+Train_result: {'prec': 0.798561968447705, 'recall': 0.6834876112197263, 'acc': 0.711168164313222}
+Val result: {'prec': 0.7467532467532467, 'recall': 0.6020408163265306, 'acc': 0.5517241379310345, 'F1': 0.4999263080324245}
+Best val result: {'epoch': 31, 'loss': tensor(0.6357, grad_fn=<DivBackward0>), 'acc': 0.5517241379310345, 'loss_t': tensor(0.6357, grad_fn=<NllLossBackward>)}
+Epoch: 32-----------------------------
+Train_result: {'prec': 0.8053728070175439, 'recall': 0.7111279575469817, 'acc': 0.7355584082156611}
+Val result: {'prec': 0.7177103718199609, 'recall': 0.6194951664876477, 'acc': 0.5747126436781609, 'F1': 0.5396825396825398}
+Best val result: {'epoch': 32, 'loss': tensor(0.6286, grad_fn=<DivBackward0>), 'acc': 0.5747126436781609, 'loss_t': tensor(0.6286, grad_fn=<NllLossBackward>)}
+Epoch: 33-----------------------------
+Train_result: {'prec': 0.8031694718117133, 'recall': 0.7357326204630996, 'acc': 0.7560975609756098}
+Val result: {'prec': 0.7236111111111111, 'recall': 0.6296992481203008, 'acc': 0.5862068965517241, 'F1': 0.5551136363636363}
+Best val result: {'epoch': 33, 'loss': tensor(0.6194, grad_fn=<DivBackward0>), 'acc': 0.5862068965517241, 'loss_t': tensor(0.6194, grad_fn=<NllLossBackward>)}
+Epoch: 34-----------------------------
+Train_result: {'prec': 0.8103746259341644, 'recall': 0.7579499660854646, 'acc': 0.7753530166880617}
+Val result: {'prec': 0.6617647058823529, 'recall': 0.6033834586466165, 'acc': 0.5632183908045977, 'F1': 0.5361952861952861}
+Best val result: {'epoch': 33, 'loss': tensor(0.6194, grad_fn=<DivBackward0>), 'acc': 0.5862068965517241, 'loss_t': tensor(0.6093, grad_fn=<NllLossBackward>)}
+Epoch: 35-----------------------------
+Train_result: {'prec': 0.8260718336483932, 'recall': 0.7867640213329077, 'acc': 0.8010269576379975}
+Val result: {'prec': 0.6784055727554179, 'recall': 0.6237916219119226, 'acc': 0.5862068965517241, 'F1': 0.5654827968923418}
+Best val result: {'epoch': 35, 'loss': tensor(0.5984, grad_fn=<DivBackward0>), 'acc': 0.5862068965517241, 'loss_t': tensor(0.5984, grad_fn=<NllLossBackward>)}
+Epoch: 36-----------------------------
+Train_result: {'prec': 0.8391108200538455, 'recall': 0.8099123542007475, 'acc': 0.8215661103979461}
+Val result: {'prec': 0.6937229437229437, 'recall': 0.6441997851772288, 'acc': 0.6091954022988506, 'F1': 0.5936813186813187}
+Best val result: {'epoch': 36, 'loss': tensor(0.5860, grad_fn=<DivBackward0>), 'acc': 0.6091954022988506, 'loss_t': tensor(0.5860, grad_fn=<NllLossBackward>)}
+Epoch: 37-----------------------------
+Train_result: {'prec': 0.8539297635211587, 'recall': 0.8328179653938741, 'acc': 0.8421052631578947}
+Val result: {'prec': 0.701048951048951, 'recall': 0.6544038668098818, 'acc': 0.6206896551724138, 'F1': 0.6074114590455354}
+Best val result: {'epoch': 37, 'loss': tensor(0.5726, grad_fn=<DivBackward0>), 'acc': 0.6206896551724138, 'loss_t': tensor(0.5726, grad_fn=<NllLossBackward>)}
+Epoch: 38-----------------------------
+Train_result: {'prec': 0.869458901338096, 'recall': 0.8521625503730599, 'acc': 0.8600770218228498}
+Val result: {'prec': 0.6941935483870967, 'recall': 0.6616541353383458, 'acc': 0.632183908045977, 'F1': 0.6237837837837837}
+Best val result: {'epoch': 38, 'loss': tensor(0.5589, grad_fn=<DivBackward0>), 'acc': 0.632183908045977, 'loss_t': tensor(0.5589, grad_fn=<NllLossBackward>)}
+Epoch: 39-----------------------------
+Train_result: {'prec': 0.886598857958601, 'recall': 0.8745827182167605, 'acc': 0.8806161745827985}
+Val result: {'prec': 0.7017654476670869, 'recall': 0.6718582169709989, 'acc': 0.6436781609195402, 'F1': 0.6367676767676769}
+Best val result: {'epoch': 39, 'loss': tensor(0.5426, grad_fn=<DivBackward0>), 'acc': 0.6436781609195402, 'loss_t': tensor(0.5426, grad_fn=<NllLossBackward>)}
+Epoch: 40-----------------------------
+Train_result: {'prec': 0.892453022875817, 'recall': 0.8833240234608786, 'acc': 0.8883183568677792}
+Val result: {'prec': 0.7361111111111112, 'recall': 0.7054242749731472, 'acc': 0.6781609195402298, 'F1': 0.6729323308270676}
+Best val result: {'epoch': 40, 'loss': tensor(0.5240, grad_fn=<DivBackward0>), 'acc': 0.6781609195402298, 'loss_t': tensor(0.5240, grad_fn=<NllLossBackward>)}
+Epoch: 41-----------------------------
+Train_result: {'prec': 0.9047212047212048, 'recall': 0.8967601643857479, 'acc': 0.9011553273427471}
+Val result: {'prec': 0.7430387409200969, 'recall': 0.7156283566058002, 'acc': 0.6896551724137931, 'F1': 0.685500066943366}
+Best val result: {'epoch': 41, 'loss': tensor(0.5052, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.5052, grad_fn=<NllLossBackward>)}
+Epoch: 42-----------------------------
+Train_result: {'prec': 0.9112978335695485, 'recall': 0.905258747955153, 'acc': 0.9088575096277278}
+Val result: {'prec': 0.7430387409200969, 'recall': 0.7156283566058002, 'acc': 0.6896551724137931, 'F1': 0.685500066943366}
+Best val result: {'epoch': 42, 'loss': tensor(0.4859, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4859, grad_fn=<NllLossBackward>)}
+Epoch: 43-----------------------------
+Train_result: {'prec': 0.9277837330832105, 'recall': 0.9246033329343388, 'acc': 0.926829268292683}
+Val result: {'prec': 0.7315789473684211, 'recall': 0.7126745435016112, 'acc': 0.6896551724137931, 'F1': 0.6870086608927382}
+Best val result: {'epoch': 43, 'loss': tensor(0.4648, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4648, grad_fn=<NllLossBackward>)}
+Epoch: 44-----------------------------
+Train_result: {'prec': 0.9297881582464582, 'recall': 0.9276789157988535, 'acc': 0.9293966623876765}
+Val result: {'prec': 0.721875, 'recall': 0.7097207303974221, 'acc': 0.6896551724137931, 'F1': 0.6881720430107527}
+Best val result: {'epoch': 44, 'loss': tensor(0.4411, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4411, grad_fn=<NllLossBackward>)}
+Epoch: 45-----------------------------
+Train_result: {'prec': 0.9349939855653568, 'recall': 0.9328591948290308, 'acc': 0.9345314505776636}
+Val result: {'prec': 0.721875, 'recall': 0.7097207303974221, 'acc': 0.6896551724137931, 'F1': 0.6881720430107527}
+Best val result: {'epoch': 45, 'loss': tensor(0.4169, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.4169, grad_fn=<NllLossBackward>)}
+Epoch: 46-----------------------------
+Train_result: {'prec': 0.9405034324942791, 'recall': 0.937796752184495, 'acc': 0.9396662387676509}
+Val result: {'prec': 0.721875, 'recall': 0.7097207303974221, 'acc': 0.6896551724137931, 'F1': 0.6881720430107527}
+Best val result: {'epoch': 46, 'loss': tensor(0.3939, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3939, grad_fn=<NllLossBackward>)}
+Epoch: 47-----------------------------
+Train_result: {'prec': 0.9465604755226074, 'recall': 0.9446361834842862, 'acc': 0.9460847240051348}
+Val result: {'prec': 0.7053872053872055, 'recall': 0.69656283566058, 'acc': 0.6781609195402298, 'F1': 0.6770943796394485}
+Best val result: {'epoch': 46, 'loss': tensor(0.3939, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3681, grad_fn=<NllLossBackward>)}
+Epoch: 48-----------------------------
+Train_result: {'prec': 0.9538215499433598, 'recall': 0.9528920453789783, 'acc': 0.9537869062901155}
+Val result: {'prec': 0.689511653718091, 'recall': 0.6834049409237379, 'acc': 0.6666666666666666, 'F1': 0.6659605454786177}
+Best val result: {'epoch': 46, 'loss': tensor(0.3939, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3401, grad_fn=<NllLossBackward>)}
+Epoch: 49-----------------------------
+Train_result: {'prec': 0.9604401685468171, 'recall': 0.9592460333293433, 'acc': 0.9602053915275995}
+Val result: {'prec': 0.689511653718091, 'recall': 0.6834049409237379, 'acc': 0.6666666666666666, 'F1': 0.6659605454786177}
+Best val result: {'epoch': 46, 'loss': tensor(0.3939, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.3163, grad_fn=<NllLossBackward>)}
+Epoch: 50-----------------------------
+Train_result: {'prec': 0.9630370429634372, 'recall': 0.961836172844432, 'acc': 0.962772785622593}
+Val result: {'prec': 0.689511653718091, 'recall': 0.6834049409237379, 'acc': 0.6666666666666666, 'F1': 0.6659605454786177}
+Best val result: {'epoch': 46, 'loss': tensor(0.3939, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.2895, grad_fn=<NllLossBackward>)}
+Epoch: 51-----------------------------
+Train_result: {'prec': 0.965633917380057, 'recall': 0.9644263123595207, 'acc': 0.9653401797175867}
+Val result: {'prec': 0.7053872053872055, 'recall': 0.69656283566058, 'acc': 0.6781609195402298, 'F1': 0.6770943796394485}
+Best val result: {'epoch': 46, 'loss': tensor(0.3939, grad_fn=<DivBackward0>), 'acc': 0.6896551724137931, 'loss_t': tensor(0.2649, grad_fn=<NllLossBackward>)}
+Epoch: 52-----------------------------
+Train_result: {'prec': 0.965633917380057, 'recall': 0.9644263123595207, 'acc': 0.9653401797175867}
+Val result: {'prec': 0.7297979797979799, 'recall': 0.7199248120300752, 'acc': 0.7011494252873564, 'F1': 0.7001590668080595}
+Best val result: {'epoch': 52, 'loss': tensor(0.2422, grad_fn=<DivBackward0>), 'acc': 0.7011494252873564, 'loss_t': tensor(0.2422, grad_fn=<NllLossBackward>)}
+Epoch: 53-----------------------------
+Train_result: {'prec': 0.9670722595794642, 'recall': 0.9656000212797085, 'acc': 0.9666238767650834}
+Val result: {'prec': 0.7377913429522752, 'recall': 0.7301288936627283, 'acc': 0.7126436781609196, 'F1': 0.7120349529988084}
+Best val result: {'epoch': 53, 'loss': tensor(0.2151, grad_fn=<DivBackward0>), 'acc': 0.7126436781609196, 'loss_t': tensor(0.2151, grad_fn=<NllLossBackward>)}
+Epoch: 54-----------------------------
+Train_result: {'prec': 0.9734245406299171, 'recall': 0.9721967309047865, 'acc': 0.9730423620025674}
+Val result: {'prec': 0.7458791208791209, 'recall': 0.7403329752953813, 'acc': 0.7241379310344828, 'F1': 0.7238095238095238}
+Best val result: {'epoch': 54, 'loss': tensor(0.1921, grad_fn=<DivBackward0>), 'acc': 0.7241379310344828, 'loss_t': tensor(0.1921, grad_fn=<NllLossBackward>)}
+Epoch: 55-----------------------------
+Train_result: {'prec': 0.9769217456133344, 'recall': 0.9764460226894891, 'acc': 0.9768934531450578}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 55, 'loss': tensor(0.1720, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.1720, grad_fn=<NllLossBackward>)}
+Epoch: 56-----------------------------
+Train_result: {'prec': 0.9823715599386953, 'recall': 0.9813835800449534, 'acc': 0.982028241335045}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 56, 'loss': tensor(0.1506, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.1506, grad_fn=<NllLossBackward>)}
+Epoch: 57-----------------------------
+Train_result: {'prec': 0.9838120382963971, 'recall': 0.9825572889651412, 'acc': 0.9833119383825417}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 57, 'loss': tensor(0.1318, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.1318, grad_fn=<NllLossBackward>)}
+Epoch: 58-----------------------------
+Train_result: {'prec': 0.9852605667627281, 'recall': 0.983730997885329, 'acc': 0.9845956354300385}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 58, 'loss': tensor(0.1131, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.1131, grad_fn=<NllLossBackward>)}
+Epoch: 59-----------------------------
+Train_result: {'prec': 0.9913153513153513, 'recall': 0.9905704291851202, 'acc': 0.9910141206675225}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 59, 'loss': tensor(0.0997, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0997, grad_fn=<NllLossBackward>)}
+Epoch: 60-----------------------------
+Train_result: {'prec': 0.9924780999547355, 'recall': 0.991986859780021, 'acc': 0.9922978177150192}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 60, 'loss': tensor(0.0846, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0846, grad_fn=<NllLossBackward>)}
+Epoch: 61-----------------------------
+Train_result: {'prec': 0.99364621034703, 'recall': 0.9934032903749219, 'acc': 0.993581514762516}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 61, 'loss': tensor(0.0727, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0727, grad_fn=<NllLossBackward>)}
+Epoch: 62-----------------------------
+Train_result: {'prec': 0.9988290398126464, 'recall': 0.9985835694050991, 'acc': 0.9987163029525032}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 62, 'loss': tensor(0.0599, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0599, grad_fn=<NllLossBackward>)}
+Epoch: 63-----------------------------
+Train_result: {'prec': 0.9988290398126464, 'recall': 0.9985835694050991, 'acc': 0.9987163029525032}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 63, 'loss': tensor(0.0501, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0501, grad_fn=<NllLossBackward>)}
+Epoch: 64-----------------------------
+Train_result: {'prec': 0.9988290398126464, 'recall': 0.9985835694050991, 'acc': 0.9987163029525032}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 64, 'loss': tensor(0.0423, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0423, grad_fn=<NllLossBackward>)}
+Epoch: 65-----------------------------
+Train_result: {'prec': 0.9988290398126464, 'recall': 0.9985835694050991, 'acc': 0.9987163029525032}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 65, 'loss': tensor(0.0349, grad_fn=<DivBackward0>), 'acc': 0.735632183908046, 'loss_t': tensor(0.0349, grad_fn=<NllLossBackward>)}
+Epoch: 66-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 66, 'loss': tensor(0.0291, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0291, grad_fn=<NllLossBackward>)}
+Epoch: 67-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 67, 'loss': tensor(0.0241, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0241, grad_fn=<NllLossBackward>)}
+Epoch: 68-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 68, 'loss': tensor(0.0198, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0198, grad_fn=<NllLossBackward>)}
+Epoch: 69-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7713068181818181, 'recall': 0.7564446831364124, 'acc': 0.735632183908046, 'F1': 0.7343687773795301}
+Best val result: {'epoch': 68, 'loss': tensor(0.0198, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0170, grad_fn=<NllLossBackward>)}
+Epoch: 70-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 70, 'loss': tensor(0.0146, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0146, grad_fn=<NllLossBackward>)}
+Epoch: 71-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 71, 'loss': tensor(0.0117, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0117, grad_fn=<NllLossBackward>)}
+Epoch: 72-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 72, 'loss': tensor(0.0098, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0098, grad_fn=<NllLossBackward>)}
+Epoch: 73-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7786195286195285, 'recall': 0.7666487647690655, 'acc': 0.7471264367816092, 'F1': 0.746288441145281}
+Best val result: {'epoch': 73, 'loss': tensor(0.0084, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0084, grad_fn=<NllLossBackward>)}
+Epoch: 74-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 73, 'loss': tensor(0.0084, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0072, grad_fn=<NllLossBackward>)}
+Epoch: 75-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 73, 'loss': tensor(0.0084, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0059, grad_fn=<NllLossBackward>)}
+Epoch: 76-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 73, 'loss': tensor(0.0084, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0055, grad_fn=<NllLossBackward>)}
+Epoch: 77-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 73, 'loss': tensor(0.0084, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0048, grad_fn=<NllLossBackward>)}
+Epoch: 78-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7619311875693673, 'recall': 0.7534908700322234, 'acc': 0.735632183908046, 'F1': 0.7350721567589038}
+Best val result: {'epoch': 73, 'loss': tensor(0.0084, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0042, grad_fn=<NllLossBackward>)}
+Epoch: 79-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 79, 'loss': tensor(0.0038, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0038, grad_fn=<NllLossBackward>)}
+Epoch: 80-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 80, 'loss': tensor(0.0033, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0033, grad_fn=<NllLossBackward>)}
+Epoch: 81-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 81, 'loss': tensor(0.0029, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0029, grad_fn=<NllLossBackward>)}
+Epoch: 82-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 82, 'loss': tensor(0.0027, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0027, grad_fn=<NllLossBackward>)}
+Epoch: 83-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 83, 'loss': tensor(0.0023, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0023, grad_fn=<NllLossBackward>)}
+Epoch: 84-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 84, 'loss': tensor(0.0022, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0022, grad_fn=<NllLossBackward>)}
+Epoch: 85-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 85, 'loss': tensor(0.0019, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0019, grad_fn=<NllLossBackward>)}
+Epoch: 86-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 86, 'loss': tensor(0.0018, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0018, grad_fn=<NllLossBackward>)}
+Epoch: 87-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 87, 'loss': tensor(0.0016, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0016, grad_fn=<NllLossBackward>)}
+Epoch: 88-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 88, 'loss': tensor(0.0015, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0015, grad_fn=<NllLossBackward>)}
+Epoch: 89-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 89, 'loss': tensor(0.0014, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0014, grad_fn=<NllLossBackward>)}
+Epoch: 90-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 90, 'loss': tensor(0.0013, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0013, grad_fn=<NllLossBackward>)}
+Epoch: 91-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 91, 'loss': tensor(0.0013, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0013, grad_fn=<NllLossBackward>)}
+Epoch: 92-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 92, 'loss': tensor(0.0012, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0012, grad_fn=<NllLossBackward>)}
+Epoch: 93-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.7697802197802197, 'recall': 0.7636949516648766, 'acc': 0.7471264367816092, 'F1': 0.7468253968253968}
+Best val result: {'epoch': 93, 'loss': tensor(0.0012, grad_fn=<DivBackward0>), 'acc': 0.7471264367816092, 'loss_t': tensor(0.0012, grad_fn=<NllLossBackward>)}
+Epoch: 94-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.803030303030303, 'recall': 0.7900107411385606, 'acc': 0.7701149425287356, 'F1': 0.7693531283138919}
+Best val result: {'epoch': 94, 'loss': tensor(0.0011, grad_fn=<DivBackward0>), 'acc': 0.7701149425287356, 'loss_t': tensor(0.0011, grad_fn=<NllLossBackward>)}
+Epoch: 95-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.803030303030303, 'recall': 0.7900107411385606, 'acc': 0.7701149425287356, 'F1': 0.7693531283138919}
+Best val result: {'epoch': 95, 'loss': tensor(0.0010, grad_fn=<DivBackward0>), 'acc': 0.7701149425287356, 'loss_t': tensor(0.0010, grad_fn=<NllLossBackward>)}
+Epoch: 96-----------------------------
+Train_result: {'prec': 1.0, 'recall': 1.0, 'acc': 1.0}
+Val result: {'prec': 0.803030303030303, 'recall': 0.7900107411385606, 'acc': 0.7701149425287356, 'F1': 0.7693531283138919}
+Best val result: {'epoch': 96, 'loss': tensor(0.0010, grad_fn=<DivBackward0>), 'acc': 0.7701149425287356, 'loss_t': tensor(0.0010, grad_fn=<NllLossBackward>)}
