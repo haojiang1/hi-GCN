@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cNlPkVwMA5hY2oOHQNO5LYC3IR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -61,7 +65,9 @@
       <workItem from="1590376916627" duration="1692000" />
       <workItem from="1590626821210" duration="8985000" />
       <workItem from="1590816642033" duration="13062000" />
-      <workItem from="1590830777526" duration="33987000" />
+      <workItem from="1590830777526" duration="35783000" />
+      <workItem from="1591176689558" duration="4480000" />
+      <workItem from="1591579836227" duration="45000" />
     </task>
     <servers />
   </component>
@@ -69,22 +75,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1590925893669">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1591181175679">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
-    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1590925893669">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591181175679" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1591181175678">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
-    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1590925893669">
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591181175678" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1591181175678">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
-    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1590925893669">
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591181175678" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1591181175678">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590925893669" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591181175678" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1590816816145">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -131,6 +137,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/hi_GCN$train.coverage" NAME="train Coverage Results" MODIFIED="1590925893657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hi_GCN$train.coverage" NAME="train Coverage Results" MODIFIED="1591176785048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
