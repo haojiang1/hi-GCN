@@ -22,16 +22,11 @@ import openpyxl
 from train_GCN import chebyshev_polynomials
 from train_GCN import chebyshev_polynomials1
 
-
 grads = {}
-
-
 def save_grad(name):
     def hook(grad):
         grads[name] = grad
-
     return hook
-
 
 def train(ntraining, ntesting, dataset, model, args, same_feat=True, val_dataset=None, test_dataset=None,
           mask_nodes=True, log_dir=None, device='cpu'):
@@ -165,8 +160,7 @@ def train(ntraining, ntesting, dataset, model, args, same_feat=True, val_dataset
         model.train()
         count = 0
         counting = 0
-        # countings = 0
-        # np.set_printoptions(threshold=np.inf)
+
         countt = 0
         for batch_idx, data in enumerate(dataset):
             countt += 1
@@ -209,38 +203,35 @@ def train(ntraining, ntesting, dataset, model, args, same_feat=True, val_dataset
                 pool_matrices_dic[ind] = pool_matrices_list
 
             time2 = time.time()
-            x_data = np.ones((args.nsubject, args.output_dim * args.num_gc_layers * 2))
-            x_data1 = np.ones((args.nsubject, args.output_dim * args.num_gc_layers * 2))
-            with open(catalogue + '\\data\\graph_ASD.txt', 'r') as f:
+            x_data = np.ones((args.nsubject, 116))
+            x_data1 = np.ones((args.nsubject, 116))
+            # input your code features (recommend 116 dimensions pre node)
+            with open('', 'r') as f:
                 count = 0
                 for line in f:
                     line.strip('\n')
                     line = line.split()
-                    for columns in range(args.output_dim * args.num_gc_layers * 2):
+                    for columns in range(116):
                         x_data[count][columns] = float(line[columns])
                     count += 1
             for data_row in range(args.nsubject):
                 x_data1[data_row] = x_data[output2[data_row]]
-                h1 = x_data1
 
-            h0 = np.ones((args.nsubject,args.max_nodes,args.output_dim * args.num_gc_layers * 2))
+            h0 = np.ones((args.nsubject,args.max_nodes,116))
             for i in range(args.nsubject):
                 for j in range(args.max_nodes):
                     h0[i][j] = x_data1[i]
-            h0 = torch.FloatTensor(h0)
-            h1 = torch.FloatTensor(h1)
-            ypred, output = model(h1, tuple_graph_fist, tuple_graph_second, tuple_graph_third, tuple_graph_forth, h0, adj_second_tensor, adj_third_tensor, adj_forth_tensor,
+            h1 = torch.FloatTensor(h0)
+
+            ypred, output = model(tuple_graph_fist, tuple_graph_second, tuple_graph_third, tuple_graph_forth, h1, adj_second_tensor, adj_third_tensor, adj_forth_tensor,
                                   adj_pooled_list1, adj_pooled_list2,adj_pooled_list3, batch_num_nodes, batch_num_nodes_list, pool_matrices_dic, output2)
             output1 = output.data.numpy()
             output2 = data['label2'].data.numpy()
             ypred2, d = ypred.split(ntraining, dim=0)
             label2, c = label.split(ntraining, dim=0)
-
             loss = model.loss(ypred2, label2)
-
             loss.backward()
             time3 = time.time()
-
             nn.utils.clip_grad_norm(model.parameters(), args.clip)
             optimizer.step()
             iter += 1
@@ -290,7 +281,7 @@ def train(ntraining, ntesting, dataset, model, args, same_feat=True, val_dataset
 
                     pool_matrices_dic[ind] = pool_matrices_list
 
-                ypred, output = model(h1, tuple_graph_fist, tuple_graph_second, tuple_graph_third, tuple_graph_forth, h0,
+                ypred, output = model( tuple_graph_fist, tuple_graph_second, tuple_graph_third, tuple_graph_forth, h1,
                                       adj_second_tensor, adj_third_tensor, adj_forth_tensor,
                                       adj_pooled_list1, adj_pooled_list2, adj_pooled_list3, batch_num_nodes,
                                       batch_num_nodes_list, pool_matrices_dic, output2)
@@ -592,7 +583,7 @@ def benchmark_task_val(args, feat='node-label', pred_hidden_dims=[50], device='c
 
             print('input_dim',input_dim)
             print('max_num_nodes', max_num_nodes)
-            model = encoders.WavePoolingGcnEncoder(max_num_nodes, args.output_dim * args.num_gc_layers * 2 , args.hidden_dim, args.output_dim,
+            model = encoders.WavePoolingGcnEncoder(max_num_nodes, 116 , args.hidden_dim, args.output_dim,
                                                    args.num_classes, args.num_gc_layers, args.num_pool_matrix,
                                                    args.num_pool_final_matrix, pool_sizes=pool_sizes,
                                                    pred_hidden_dims=pred_hidden_dims, concat=args.concat, bn=args.bn,
@@ -722,7 +713,7 @@ def arg_parse():
                         nsubject=866,
                         feature_type='default',
                         datadir='data',
-                        lr=0.0003,
+                        lr=0.001,
                         clip=2.0,
                         batch_size=900,
                         num_epochs=250,
